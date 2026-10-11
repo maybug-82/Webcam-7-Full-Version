@@ -238,4 +238,4 @@ This repository serves as the official landing page for Webcam 7. The software i
 **Get the most recent version of Webcam 7 today!**
 
 ---
-**Last updated:** 2026-10-10 22:08:14 UTC
+**Last updated:** 2026-10-11 01:27:41 UTC
